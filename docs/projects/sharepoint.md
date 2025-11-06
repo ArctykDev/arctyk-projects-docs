@@ -1,7 +1,7 @@
 # SharePoint
 
-This section includes custom SharePoint webparts and other SharePoint related extensions.
+This section includes custom SharePoint web parts and other SharePoint related extensions.
 
 | Project | Description | Status |
 |----------|--------------|--------|
-| **Blurbs Webpart** | Clean and stylish way to combine text and images. | Active
+| **Blurbs Web part** | Clean and stylish way to combine text and images. | Active

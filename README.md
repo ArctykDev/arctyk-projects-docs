@@ -15,7 +15,7 @@ This repository houses the documentation for non-ITSM projects under **ArctykDev
 |----------|--------------|
 | 🧩 **Projects** | Detailed documentation for internal and open projects |
 | ⚙️ **Obsidian** | Custom Obsidian.md plugins |
-| 🧪 **SharePoint** | Custom SharePoint webparts |
+| 🧪 **SharePoint** | Custom SharePoint web parts |
 | 🛠 **Developer Tools** | Libraries and reusable components |
 
 > For ITSM-specific documentation, visit [Arctyk ITSM Docs](https://arctyk.dev).

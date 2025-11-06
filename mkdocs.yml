@@ -28,9 +28,12 @@ nav:
   - Projects:
       - Overview: projects/overview.md
       - Integrations: projects/integrations.md
-      - Experiments: projects/obsidian.md
-      - Tools: projects/sharepoint.md
+      - Obsidian:
+          - Overview: projects/obsidian.md
+          - Calendar Events: projects/obsidian/obsidian-calendar-events.md
+      - SharePoint: projects/sharepoint.md
   - About: about.md
+
 
 markdown_extensions:
   - admonition

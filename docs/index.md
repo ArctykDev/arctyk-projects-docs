@@ -3,8 +3,8 @@
 This documentation covers all projects developed by the Arctyk team, excluding **Arctyk ITSM**.
 
 ## Project Categories
-- Internal Tools
-- Experimental Apps
+- Obsidan.md plugins
+- SharePoint web parts
 - Integrations
 
 For ITSM-related content, visit [Arctyk Docs](https://docs.arctyk.dev).
