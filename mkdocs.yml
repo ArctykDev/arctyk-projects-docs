@@ -31,7 +31,7 @@ nav:
       - Obsidian:
           - Overview: projects/obsidian.md
           - Obsidian Calendar Events: projects/obsidian/obsidian-calendar-events.md
-          - Obsidian Project Planner: projects/obsidian/obsidian-calendar-events.md
+          - Obsidian Project Planner: projects/obsidian/obsidian-project-planner.md
           - Obsidian 5 Things: projects/obsidian/obsidian-5-things.md
       - SharePoint: projects/sharepoint.md
       - WordPress: projects/wordpress.md
