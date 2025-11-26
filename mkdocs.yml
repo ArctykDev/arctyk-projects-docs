@@ -67,3 +67,9 @@ extra:
   social:
     - icon: fontawesome/brands/github
       link: https://github.com/ArctykDev
+
+extra_footer: |
+  <div style="text-align:center; padding: 1rem 0;">
+      <p>© {{ config.site_name }} — {{ build_date_utc.year }}</p>
+      <p>Part of the Arctyk ITSM ecosystem</p>
+  </div>
