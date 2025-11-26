@@ -35,7 +35,7 @@ nav:
           - Obsidian 5 Things: projects/obsidian/obsidian-5-things.md
       - SharePoint: projects/sharepoint.md
       - WordPress: projects/wordpress.md
-      - Power Platform: /projects/power-platform.md
+      - Power Platform: projects/power-platform.md
       - Custom Apps: projects/custom-apps.md
       - Dev Tools: projects/dev-tools.md
   - About: about.md
