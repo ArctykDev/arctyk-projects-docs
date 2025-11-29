@@ -29,6 +29,7 @@ nav:
       - Overview: obsidian/obsidian.md
       - Obsidian Calendar Events:
           - Obsidian Calendar Events: obsidian/obsidian-calendar-events/obsidian-calendar-events.md
+          - How to Install: obsidian/obsidian-calendar-events/obsidian-calendar-events-installation.md
           - Changelog: obsidian/obsidian-calendar-events/obsidian-calendar-events-changelog.md
       - Obsidian Project Planner:
           - Overview: obsidian/obsidian-project-planner/obsidian-project-planner.md
