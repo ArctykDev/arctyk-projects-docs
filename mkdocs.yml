@@ -8,7 +8,7 @@ edit_uri: edit/main/docs/
 
 theme:
   name: material
-  logo: assets/logo.png
+  logo: assets/arctyk-icon-logo.png
   favicon: assets/favicon.ico
   features:
     - navigation.instant
