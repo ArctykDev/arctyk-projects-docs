@@ -1,0 +1,42 @@
+/* -------------------------------------------------------------------
+   HERO LAYOUT
+------------------------------------------------------------------- */
+
+.hero,
+.hero-flex {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 2rem;
+  flex-wrap: wrap;
+  margin: 2rem 0 3rem;
+}
+
+/* Left-side text column */
+.hero-content {
+  flex: 1 1 400px;
+}
+
+/* Hero buttons */
+.hero-buttons {
+  margin-top: 1rem;
+}
+
+.hero-buttons .md-button {
+  margin-right: 0.5rem;
+}
+
+/* Hero image */
+.hero-image img {
+  max-width: 200px;
+  border-radius: 12px;
+  opacity: 0.95;
+  display: block;
+}
+
+/* Slightly smaller image for narrower layouts */
+@media (max-width: 600px) {
+  .hero-image img {
+    max-width: 150px;
+  }
+}
