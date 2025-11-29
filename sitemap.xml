@@ -2,54 +2,46 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://arctykdev.github.io/arctyk-projects-docs/</loc>
-         <lastmod>2025-11-26</lastmod>
+         <lastmod>2025-11-29</lastmod>
     </url>
     <url>
          <loc>https://arctykdev.github.io/arctyk-projects-docs/about/</loc>
-         <lastmod>2025-11-26</lastmod>
+         <lastmod>2025-11-29</lastmod>
     </url>
     <url>
-         <loc>https://arctykdev.github.io/arctyk-projects-docs/projects/custom-apps/</loc>
-         <lastmod>2025-11-26</lastmod>
+         <loc>https://arctykdev.github.io/arctyk-projects-docs/obsidian/obsidian/</loc>
+         <lastmod>2025-11-29</lastmod>
     </url>
     <url>
-         <loc>https://arctykdev.github.io/arctyk-projects-docs/projects/dev-tools/</loc>
-         <lastmod>2025-11-26</lastmod>
+         <loc>https://arctykdev.github.io/arctyk-projects-docs/obsidian/obsidian-5-things/obsidian-5-things/</loc>
+         <lastmod>2025-11-29</lastmod>
     </url>
     <url>
-         <loc>https://arctykdev.github.io/arctyk-projects-docs/projects/integrations/</loc>
-         <lastmod>2025-11-26</lastmod>
+         <loc>https://arctykdev.github.io/arctyk-projects-docs/obsidian/obsidian-calendar-events/obsidian-calendar-events-changelog/</loc>
+         <lastmod>2025-11-29</lastmod>
     </url>
     <url>
-         <loc>https://arctykdev.github.io/arctyk-projects-docs/projects/obsidian/</loc>
-         <lastmod>2025-11-26</lastmod>
+         <loc>https://arctykdev.github.io/arctyk-projects-docs/obsidian/obsidian-calendar-events/obsidian-calendar-events/</loc>
+         <lastmod>2025-11-29</lastmod>
     </url>
     <url>
-         <loc>https://arctykdev.github.io/arctyk-projects-docs/projects/overview/</loc>
-         <lastmod>2025-11-26</lastmod>
+         <loc>https://arctykdev.github.io/arctyk-projects-docs/obsidian/obsidian-project-planner/obsidian-project-planner/</loc>
+         <lastmod>2025-11-29</lastmod>
     </url>
     <url>
-         <loc>https://arctykdev.github.io/arctyk-projects-docs/projects/power-platform/</loc>
-         <lastmod>2025-11-26</lastmod>
+         <loc>https://arctykdev.github.io/arctyk-projects-docs/power-platform/power-platform/</loc>
+         <lastmod>2025-11-29</lastmod>
     </url>
     <url>
-         <loc>https://arctykdev.github.io/arctyk-projects-docs/projects/sharepoint/</loc>
-         <lastmod>2025-11-26</lastmod>
+         <loc>https://arctykdev.github.io/arctyk-projects-docs/sharepoint/sharepoint/</loc>
+         <lastmod>2025-11-29</lastmod>
     </url>
     <url>
-         <loc>https://arctykdev.github.io/arctyk-projects-docs/projects/wordpress/</loc>
-         <lastmod>2025-11-26</lastmod>
+         <loc>https://arctykdev.github.io/arctyk-projects-docs/snodesk/snodesk/</loc>
+         <lastmod>2025-11-29</lastmod>
     </url>
     <url>
-         <loc>https://arctykdev.github.io/arctyk-projects-docs/projects/obsidian/obsidian-5-things/</loc>
-         <lastmod>2025-11-26</lastmod>
-    </url>
-    <url>
-         <loc>https://arctykdev.github.io/arctyk-projects-docs/projects/obsidian/obsidian-calendar-events/</loc>
-         <lastmod>2025-11-26</lastmod>
-    </url>
-    <url>
-         <loc>https://arctykdev.github.io/arctyk-projects-docs/projects/obsidian/obsidian-project-planner/</loc>
-         <lastmod>2025-11-26</lastmod>
+         <loc>https://arctykdev.github.io/arctyk-projects-docs/wordpress/wordpress/</loc>
+         <lastmod>2025-11-29</lastmod>
     </url>
 </urlset>
